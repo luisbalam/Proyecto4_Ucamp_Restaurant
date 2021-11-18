@@ -1,6 +1,6 @@
-import product1 from '../../images/product-1.jpg';
-import product2 from '../../images/product-2.jpg';
-import product3 from '../../images/product-3.jpg';
+import product1 from '../../images/Pocchuc.jpeg';
+import product2 from '../../images/escabeche.jpeg';
+import product3 from '../../images/rellenoNegro.jpeg';
 import sweet1 from '../../images/sweet3.jpg';
 import sweet2 from '../../images/sweet-2.jpg';
 import sweet3 from '../../images/sweet-3.jpg';
@@ -8,30 +8,30 @@ import sweet3 from '../../images/sweet-3.jpg';
 export const productData = [
   {
     img: product1,
-    alt: 'Pizza',
-    name: 'Supreme Pizza',
+    alt: 'Poc-chuc',
+    name: 'Poc-Chuc',
     desc:
-      'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$19.99',
-    button: 'Add to Cart'
+      'Carne de cerdo asada, con su rico frijol colado y su salsa de tomate (Chiltomate)',
+    price: '$120.00',
+    button: 'Ordenar'
   },
   {
     img: product2,
-    alt: 'Pizza',
-    name: 'Hawaiian Paradise',
+    alt: 'Escabeche Oriental',
+    name: 'Escabeche Oriental',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$16.99',
-    button: 'Add to Cart'
+      ' Pavo o pollo, en una mezcla de vinagre, cilantro, sal, pimienta, comino, clavos, canela y ajo',
+    price: '$120.00',
+    button: 'Ordenar'
   },
   {
     img: product3,
-    alt: 'Pizza',
-    name: 'Veggie Overload',
+    alt: 'Relleno Negro',
+    name: 'Relleno Negro',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$14.99',
-    button: 'Add to Cart'
+      ' Pavo sazonado con condimentos hechos a base de chiles asados y especias',
+    price: '$120.00',
+    button: 'Ordenar'
   }
 ];
 

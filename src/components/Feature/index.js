@@ -6,7 +6,7 @@ const Feature = () => {
     <FeatureContainer>
       <h1>El mejor Guiso del Día</h1>
       <p>Con el sabor culinario del Estado de Yucatán</p>
-      <FeatureButton>Order Now</FeatureButton>
+      <FeatureButton>Ordenar Ahora</FeatureButton>
     </FeatureContainer>
   );
 };

@@ -25,7 +25,7 @@ const Hero = () => {
         <HeroItems>
           <HeroH1>La Tía de Cuncunul</HeroH1>
           <HeroP>Con la Receta Original</HeroP>
-          <HeroBtn>Ordenar</HeroBtn>
+          
         </HeroItems>
       </HeroContent>
     </HeroContainer>
